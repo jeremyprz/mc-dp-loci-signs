@@ -1,1 +1,0 @@
-execute at @p run setblock ~ ~ ~1 minecraft:oak_sign{Text1:'{"text":""}',Text2:'{"text":"Mommy loves Dax"}',Text3:'{"text":"Mommy loves Silas"}',Text4:'{"text":""}'}
