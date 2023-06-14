@@ -1,1 +1,1 @@
-execute at @p run setblock ~ ~ ~1 minecraft:oak_sign{front_text:{ messages: ['{"text":""}','{"text":"Daddy loves Dax"}','{"text":"Daddy loves Silas"}','{"text":""}'] }, back_text:{ messages: ['{"text":""}','{"text":"Mommy loves Dax"}','{"text":"Mommy loves Silas"}','{"text":""}'] } }
+execute at @p run setblock ~ ~ ~ minecraft:oak_sign{front_text:{ messages: ['{"text":""}','{"text":"Daddy loves Dax"}','{"text":"Daddy loves Silas"}','{"text":""}'] }, back_text:{ messages: ['{"text":""}','{"text":"Mommy loves Dax"}','{"text":"Mommy loves Silas"}','{"text":""}'] } }
