@@ -1,0 +1,1 @@
+execute at @p run setblock ~ ~ ~ minecraft:oak_sign{front_text:{ messages: ['{"text":""}','{"text":"Ring bell"}','{"text":"when you"}','{"text":"need me"}'] } }
