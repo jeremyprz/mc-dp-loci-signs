@@ -1,1 +1,1 @@
-execute at @p run data get block ~ ~ ~1
+execute at @p run data get block ~ ~ ~
